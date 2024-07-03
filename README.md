@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ward Ahmad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
-- 😄 Pronouns: She
 - ⚡ Fun fact: I hate JS :3
 
 <!---
